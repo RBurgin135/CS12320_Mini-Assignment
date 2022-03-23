@@ -1,0 +1,30 @@
+Lynda's Kennels
+20
+Dog
+Rover
+2
+Chris Loftus
+1234
+Pete Hoskins
+2222
+2
+biscuits
+true
+false
+Dog
+Dinky
+1
+James Bond
+007007
+1
+Gold fingers
+false
+true
+Cat
+Mittens
+1
+Richard Burgin
+5678
+2
+Catnip
+true
